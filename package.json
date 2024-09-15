@@ -1,0 +1,27 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "simple backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajp1-cmyk/library_system.git"
+  },
+  "keywords": [
+    "backend",
+    "mongo",
+    "basics"
+  ],
+  "author": "ajp1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajp1-cmyk/library_system/issues"
+  },
+  "homepage": "https://github.com/ajp1-cmyk/library_system#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
